@@ -1,0 +1,10 @@
+STATEMENT#>System.out.println ("Hola");
+EXPRESSION#>exit
+EXPRESSION#>run
+EXPRESSION#>end
+EXPRESSION#>exit
+EXPRESSION#>System
+EXPRESSION#>a=5
+VAR#>int a;
+STATEMENT#>System.out.println(a);
+EXPRESSION#>}
